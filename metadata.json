@@ -1,0 +1,8 @@
+
+{
+  "name": "HairForce AI Stylist",
+  "description": "A high-end virtual barbershop application that uses Gemini AI to realistically apply professional hairstyles to your portrait while preserving your identity and background.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
