@@ -48,7 +48,7 @@ const App: React.FC = () => {
       <header className="w-full max-w-5xl flex flex-col md:flex-row md:items-center justify-between gap-4 mb-12">
         <div>
           <h1 className="text-4xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-indigo-600">
-            HAIRFORCE AI
+            HAIRMAX AI
           </h1>
           <p className="text-white/40 text-sm mt-1 uppercase tracking-widest font-semibold">Precision Virtual Barbershop</p>
         </div>
